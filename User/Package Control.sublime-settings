@@ -6,15 +6,29 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"APICloudLoader",
+		"APICloudPackage",
+		"APICloudSnippets",
 		"AutoFileName",
+		"Autoprefixer",
 		"BracketHighlighter",
 		"caniuse_local",
+		"CSScomb",
 		"Emmet",
 		"Git",
 		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Instacode",
+		"JavaScript Completions",
+		"jQuery",
 		"MarkdownEditing",
+		"ModernPerl",
 		"Package Control",
+		"Perl Completions",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"View In Browser"
 	]
 }

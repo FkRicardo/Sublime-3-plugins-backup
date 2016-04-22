@@ -5,6 +5,14 @@ lie in Packages category.
 
 ##shortcuts used-often
 
-* cmd+shift+h   格式化 HTML/CSS/Js beautify
-* cmd-shift-c   css格式化
-* cmd-ctrl-y	   对齐 ‘=’ ‘:’
+* cmd+shift+h   
+* 格式化 HTML/CSS/Js beautify
+* 
+* cmd-shift-c   
+* css格式化
+* 
+* cmd-ctrl-y	   
+* 对齐 ‘=’ ‘:’
+* 
+* cmd-f1
+* 在浏览器中打开

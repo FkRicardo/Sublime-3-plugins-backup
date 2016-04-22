@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+f1"], "command": "open_in_browser" }
+]
